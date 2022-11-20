@@ -1,0 +1,57 @@
+
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+
+ .container{
+    width: auto;
+    background-color: white;
+    margin:0 1%;
+ } 
+
+p{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+fieldset{
+    border: 1px solid rgb(255,232,57);
+    width: 350px;
+    height: 13px;
+    margin:auto;
+    border-style: groove;
+}
+
+.src-btn{
+    margin-top: 7px;
+    float: left;
+    width: auto;
+    text-align: center;
+    margin-left: 3px;
+    
+}
+
+.center2{
+    margin: 0 44%;
+    float: left;
+}
+.center3{
+    float: left;
+    width: 1800px;
+    margin: 0 23%;
+}
+
+.card{
+    width: 300px;
+    float: left;
+    margin-top: 7px;
+    text-align: center;
+    background-color: cadetblue;
+    height: 150px;
+}
